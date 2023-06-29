@@ -1,0 +1,7 @@
+@import './bestsellers.css';
+@import './category.css';
+
+.gallery-section {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
